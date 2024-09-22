@@ -21,7 +21,7 @@ body {
     height: 27rem;
     width: 25rem;
     border-radius: 1vh;
-   
+    box-shadow: 5px 5px 15px rgba(54, 53, 53, 0.3); 
 }
 
 .pantalla{
