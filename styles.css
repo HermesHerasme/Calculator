@@ -24,14 +24,16 @@ body {
     box-shadow: 5px 5px 15px rgba(54, 53, 53, 0.3); 
 }
 
+
 .pantalla{
    background-color: black;
    padding: 1.5vh;
    margin: 1vh;
    border-radius: 1vh;
    height: 5.5rem;
+   width: 24rem;
    text-align: right;
-   font-size: 4rem;
+   font-size: 3.5rem;
 }
 
 
