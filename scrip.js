@@ -10,7 +10,7 @@ botones.forEach(boton => {
         const botonesApretados = boton.textContent
 
 
-        if(pantalla.textContent.length >12){
+        if(pantalla.textContent.length >9){
 
             pantalla.textContent = "Exess"
             return
